@@ -1,2 +1,2 @@
-# g-rsel-programlama
-görsel programlamada yaptığımız çalışmalar
+# gorsel-programlama
+görsel programlamada c# ile yaptığımız çalışmalar
